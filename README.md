@@ -1,2 +1,0 @@
-# SE
-my git config
